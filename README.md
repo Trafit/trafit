@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trafit&show_icons=true&theme=dark&title_color=000000&text_color=ec9c9c&bg_color=030303&locale=en" alt="trafit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trafit&" alt="trafit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trafit&theme=dark" alt="trafit" /></p>
