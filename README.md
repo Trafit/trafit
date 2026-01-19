@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trafit&show_icons=true&locale=en&layout=compact" alt="trafit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trafit&show_icons=true&theme=dark&text_color=b49797&bg_color=e86969&locale=ind" alt="trafit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trafit&show_icons=true&theme=dark&text_color=000000&bg_color=e86969&locale=ind" alt="trafit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trafit&" alt="trafit" /></p>
